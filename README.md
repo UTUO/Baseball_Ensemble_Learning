@@ -1,6 +1,6 @@
 # Baseball Ensemble Learning｜棒球球員薪資預測比較（公開版）
 
-本專案為輔仁大學 115-1 機器學習課程作業，使用 R 語言比較 **CART Regression Tree**、**Random Forest** 與 **XGBoost** 三種模型的棒球球員對數薪資（`Logsalary`）預測誤差，並以 **Multiple Linear Regression (`glm`)** 作為傳統統計基準模型。
+本專案為機器學習課程專案，使用 R 語言比較 **CART Regression Tree**、**Random Forest** 與 **XGBoost** 三種模型的棒球球員對數薪資（`Logsalary`）預測誤差，並以 **Multiple Linear Regression (`glm`)** 作為傳統統計基準模型。
 
 ---
 
