@@ -1,0 +1,24 @@
+# macOS system files
+.DS_Store
+
+# R temporary and session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.R_libs/
+*.Rproj
+
+# Temporary files
+*.tmp
+*.log
+Rplots.pdf
+
+# Restricted course raw data, teacher scripts, and row-level/workspace artifacts
+ball.txt
+CART_Baseball.r
+CART_Test.r
+RF_Test.r
+XGBoost_Test.r
+outputs/models_workspace.rds
+outputs/tables/test_predictions.csv
